@@ -1,1 +1,3 @@
-file2 has been added
+new file cretaed
+
+new line added to the file
